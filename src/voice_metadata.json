@@ -1,0 +1,3240 @@
+{
+    "zh_male_beijingxiaoye_emo_v2_mars_bigtts": {
+        "name_cn": "北京小爷（多情感）",
+        "language": "中文",
+        "emotions": [
+            "生气",
+            "惊讶",
+            "恐惧",
+            "激动",
+            "冷漠",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "young",
+        "tone": "beijing_accent",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_roumeinvyou_emo_v2_mars_bigtts": {
+        "name_cn": "柔美女友（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "悲伤",
+            "生气",
+            "惊讶",
+            "恐惧",
+            "厌恶",
+            "激动",
+            "冷漠",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle_girlfriend",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_yangguangqingnian_emo_v2_mars_bigtts": {
+        "name_cn": "阳光青年（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "悲伤",
+            "生气",
+            "恐惧",
+            "激动",
+            "冷漠",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "young",
+        "tone": "sunny_youth",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_meilinvyou_emo_v2_mars_bigtts": {
+        "name_cn": "魅力女友（多情感）",
+        "language": "中文",
+        "emotions": [
+            "悲伤",
+            "恐惧",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming_girlfriend",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_shuangkuaisisi_emo_v2_mars_bigtts": {
+        "name_cn": "爽快思思（多情感）",
+        "language": "中文、美式英语",
+        "emotions": [
+            "开心",
+            "悲伤",
+            "生气",
+            "惊讶",
+            "激动",
+            "冷漠",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "straightforward",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_tianxinxiaomei_emo_v2_mars_bigtts": {
+        "name_cn": "甜心小美（多情感）",
+        "language": "中文",
+        "emotions": [
+            "悲伤",
+            "恐惧",
+            "厌恶",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet_heart",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_gaolengyujie_emo_v2_mars_bigtts": {
+        "name_cn": "高冷御姐（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "悲伤",
+            "生气",
+            "惊讶",
+            "恐惧",
+            "厌恶",
+            "激动",
+            "冷漠",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "cold_royal",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_aojiaobazong_emo_v2_mars_bigtts": {
+        "name_cn": "傲娇霸总（多情感）",
+        "language": "中文",
+        "emotions": [
+            "中性",
+            "开心",
+            "愤怒",
+            "厌恶"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "tsundere_ceo",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_guangzhoudege_emo_mars_bigtts": {
+        "name_cn": "广州德哥（多情感）",
+        "language": "中文",
+        "emotions": [
+            "生气",
+            "恐惧",
+            "中性"
+        ],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "guangzhou_accent",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_jingqiangkanye_emo_mars_bigtts": {
+        "name_cn": "京腔侃爷（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "生气",
+            "惊讶",
+            "厌恶",
+            "中性"
+        ],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "beijing_storyteller",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_linjuayi_emo_v2_mars_bigtts": {
+        "name_cn": "邻居阿姨（多情感）",
+        "language": "中文",
+        "emotions": [
+            "中性",
+            "愤怒",
+            "冷漠",
+            "悲伤",
+            "惊讶"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "old",
+        "tone": "neighborly_aunt",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_yourougongzi_emo_v2_mars_bigtts": {
+        "name_cn": "优柔公子（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "生气",
+            "恐惧",
+            "厌恶",
+            "激动",
+            "中性",
+            "悲伤"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "young",
+        "tone": "indecisive_gentleman",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_ruyayichen_emo_v2_mars_bigtts": {
+        "name_cn": "儒雅男友（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "悲伤",
+            "生气",
+            "恐惧",
+            "激动",
+            "冷漠",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "young",
+        "tone": "elegant_boyfriend",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_junlangnanyou_emo_v2_mars_bigtts": {
+        "name_cn": "俊朗男友（多情感）",
+        "language": "中文",
+        "emotions": [
+            "开心",
+            "悲伤",
+            "生气",
+            "惊讶",
+            "恐惧",
+            "中性"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "young",
+        "tone": "handsome_boyfriend",
+        "scenario": "multi_emotion"
+    },
+    "zh_male_lengkugege_emo_v2_mars_bigtts": {
+        "name_cn": "冷酷哥哥（多情感）",
+        "language": "中文",
+        "emotions": [
+            "生气",
+            "冷漠",
+            "恐惧",
+            "开心",
+            "厌恶",
+            "中性",
+            "悲伤",
+            "沮丧"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "young",
+        "tone": "cool_brother",
+        "scenario": "multi_emotion"
+    },
+    "en_male_glen_emo_v2_mars_bigtts": {
+        "name_cn": "Glen",
+        "language": "美式英语",
+        "emotions": [
+            "深情",
+            "愤怒",
+            "ASMR",
+            "对话/闲聊",
+            "深情",
+            "兴奋",
+            "愉悦",
+            "中性",
+            "悲伤",
+            "温暖"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multi_emotion"
+    },
+    "en_male_sylus_emo_v2_mars_bigtts": {
+        "name_cn": "Sylus",
+        "language": "美式英语",
+        "emotions": [
+            "深情",
+            "愤怒",
+            "ASMR",
+            "权威",
+            "对话/闲聊",
+            "兴奋",
+            "愉悦",
+            "中性",
+            "悲伤",
+            "温暖"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "authoritative",
+        "scenario": "multi_emotion"
+    },
+    "en_female_candice_emo_v2_mars_bigtts": {
+        "name_cn": "Candice",
+        "language": "美式英语",
+        "emotions": [
+            "深情",
+            "愤怒",
+            "ASMR",
+            "对话/闲聊",
+            "兴奋",
+            "愉悦",
+            "中性",
+            "温暖"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multi_emotion"
+    },
+    "en_male_corey_emo_v2_mars_bigtts": {
+        "name_cn": "Corey",
+        "language": "英式英语",
+        "emotions": [
+            "愤怒",
+            "ASMR",
+            "权威",
+            "对话/闲聊",
+            "深情",
+            "兴奋",
+            "愉悦",
+            "中性",
+            "悲伤",
+            "温暖"
+        ],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "authoritative",
+        "scenario": "multi_emotion"
+    },
+    "en_female_nadia_tips_emo_v2_mars_bigtts": {
+        "name_cn": "Nadia1",
+        "language": "英式英语",
+        "emotions": [
+            "深情",
+            "愤怒",
+            "ASMR",
+            "对话/闲聊",
+            "深情",
+            "兴奋",
+            "愉悦",
+            "中性",
+            "悲伤",
+            "温暖"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multi_emotion"
+    },
+    "en_female_skye_emo_v2_mars_bigtts": {
+        "name_cn": "Serena",
+        "language": "美式英语",
+        "emotions": [
+            "深情",
+            "愤怒",
+            "ASMR",
+            "对话/闲聊",
+            "兴奋",
+            "愉悦",
+            "中性",
+            "悲伤",
+            "温暖"
+        ],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multi_emotion"
+    },
+    "zh_female_yingyujiaoyu_mars_bigtts": {
+        "name_cn": "Tina老师",
+        "language": "中、英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "teacher",
+        "scenario": "education"
+    },
+    "zh_female_kefunvsheng_mars_bigtts": {
+        "name_cn": "暖阳女声",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "warm_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_tianmeixiaoyu_cs_tob": {
+        "name_cn": "甜美小雨",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_reqingaina_cs_tob": {
+        "name_cn": "热情艾娜",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "enthusiastic_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_tianmeixiaoju_cs_tob": {
+        "name_cn": "甜美小橘",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_male_chenwenmingzai_cs_tob": {
+        "name_cn": "沉稳明仔",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "calm_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_male_qinqiexiaozhuo_cs_tob": {
+        "name_cn": "亲切小卓",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "kind_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_lingdongxinxin_cs_tob": {
+        "name_cn": "灵动欣欣",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "lively_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_guaiqiaokeer_cs_tob": {
+        "name_cn": "乖巧可儿",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "obedient_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_nuanxinqianqian_cs_tob": {
+        "name_cn": "暖心茜茜",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "warm_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_ruanmengtuanzi_cs_tob": {
+        "name_cn": "软萌团子",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "soft_cute_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_male_yangguangyangyang_cs_tob": {
+        "name_cn": "阳光洋洋",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "sunny_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_ruanmengtangtang_cs_tob": {
+        "name_cn": "软萌糖糖",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "soft_cute_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_xiuliqianqian_cs_tob": {
+        "name_cn": "秀丽倩倩",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "beautiful_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_kaixinxiaohong_cs_tob": {
+        "name_cn": "开心小鸿",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "happy_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_qingyingduoduo_cs_tob": {
+        "name_cn": "轻盈朵朵",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "light_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_lixingyuanzi_cs_tob": {
+        "name_cn": "理性圆子",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "rational_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_qingtiantaotao_cs_tob": {
+        "name_cn": "清甜桃桃",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_qingxixiaoxue_cs_tob": {
+        "name_cn": "清晰小雪",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "clear_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_qingtianmeimei_cs_tob": {
+        "name_cn": "清甜莓莓",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_kailangtingting_cs_tob": {
+        "name_cn": "开朗婷婷",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "cheerful_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_male_qingxinmumu_cs_tob": {
+        "name_cn": "清新沐沐",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "fresh_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_male_shuanglangxiaoyang_cs_tob": {
+        "name_cn": "爽朗小阳",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "bright_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_male_qingxinbobo_cs_tob": {
+        "name_cn": "清新波波",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "fresh_customer_service",
+        "scenario": "customer_service"
+    },
+    "ICL_zh_female_wenwanshanshan_cs_tob": {
+        "name_cn": "温婉珊珊",
+        "language": "仅中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle_customer_service",
+        "scenario": "customer_service"
+    },
+    "zh_female_tianmeitaozi_mars_bigtts": {
+        "name_cn": "甜美桃子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet",
+        "scenario": "general"
+    },
+    "zh_female_vv_mars_bigtts": {
+        "name_cn": "Vivi",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "general"
+    },
+    "ICL_zh_female_wenrounvshen_239eff5e8ffa_tob": {
+        "name_cn": "温柔女神",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle_goddess",
+        "scenario": "general"
+    },
+    "zh_female_cancan_mars_bigtts": {
+        "name_cn": "灿灿/Shiny",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "general"
+    },
+    "zh_female_qingxinnvsheng_mars_bigtts": {
+        "name_cn": "清新女声",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "fresh_female",
+        "scenario": "general"
+    },
+    "zh_female_shuangkuaisisi_moon_bigtts": {
+        "name_cn": "爽快思思/Skye",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "straightforward",
+        "scenario": "general"
+    },
+    "zh_male_wennuanahu_moon_bigtts": {
+        "name_cn": "温暖阿虎/Alvin",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "warm",
+        "scenario": "general"
+    },
+    "zh_male_shaonianzixin_moon_bigtts": {
+        "name_cn": "少年梓辛/Brayan",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "youthful",
+        "scenario": "general"
+    },
+    "zh_female_zhixingnvsheng_mars_bigtts": {
+        "name_cn": "知性女声",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "intellectual",
+        "scenario": "general"
+    },
+    "zh_male_qingshuangnanda_mars_bigtts": {
+        "name_cn": "清爽男大",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "fresh_male_youth",
+        "scenario": "general"
+    },
+    "zh_female_linjianvhai_moon_bigtts": {
+        "name_cn": "邻家女孩",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "girl_next_door",
+        "scenario": "general"
+    },
+    "zh_male_yuanboxiaoshu_moon_bigtts": {
+        "name_cn": "渊博小叔",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "erudite_uncle",
+        "scenario": "general"
+    },
+    "zh_male_yangguangqingnian_moon_bigtts": {
+        "name_cn": "阳光青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "sunny_youth",
+        "scenario": "general"
+    },
+    "zh_female_tianmeixiaoyuan_moon_bigtts": {
+        "name_cn": "甜美小源",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet",
+        "scenario": "general"
+    },
+    "zh_female_qingchezizi_moon_bigtts": {
+        "name_cn": "清澈梓梓",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "clear",
+        "scenario": "general"
+    },
+    "zh_male_jieshuoxiaoming_moon_bigtts": {
+        "name_cn": "解说小明",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "narrator",
+        "scenario": "general"
+    },
+    "zh_female_kailangjiejie_moon_bigtts": {
+        "name_cn": "开朗姐姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "cheerful_sister",
+        "scenario": "general"
+    },
+    "zh_male_linjiananhai_moon_bigtts": {
+        "name_cn": "邻家男孩",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "boy_next_door",
+        "scenario": "general"
+    },
+    "zh_female_tianmeiyueyue_moon_bigtts": {
+        "name_cn": "甜美悦悦",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sweet",
+        "scenario": "general"
+    },
+    "zh_female_xinlingjitang_moon_bigtts": {
+        "name_cn": "心灵鸡汤",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "inspirational",
+        "scenario": "general"
+    },
+    "ICL_zh_female_zhixingwenwan_tob": {
+        "name_cn": "知性温婉",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "intellectual_gentle",
+        "scenario": "general"
+    },
+    "ICL_zh_male_nuanxintitie_tob": {
+        "name_cn": "暖心体贴",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "warm_considerate",
+        "scenario": "general"
+    },
+    "ICL_zh_female_wenrouwenya_tob": {
+        "name_cn": "温柔文雅",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle_elegant",
+        "scenario": "general"
+    },
+    "ICL_zh_male_kailangqingkuai_tob": {
+        "name_cn": "开朗轻快",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cheerful_light",
+        "scenario": "general"
+    },
+    "ICL_zh_male_huoposhuanglang_tob": {
+        "name_cn": "活泼爽朗",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "lively_bright",
+        "scenario": "general"
+    },
+    "ICL_zh_male_shuaizhenxiaohuo_tob": {
+        "name_cn": "率真小伙",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "frank_youth",
+        "scenario": "general"
+    },
+    "zh_male_wenrouxiaoge_mars_bigtts": {
+        "name_cn": "温柔小哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "gentle",
+        "scenario": "general"
+    },
+    "zh_female_qinqienvsheng_moon_bigtts": {
+        "name_cn": "亲切女声",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "kind",
+        "scenario": "general"
+    },
+    "ICL_zh_male_shenmi_v1_tob": {
+        "name_cn": "机灵小伙",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "clever",
+        "scenario": "general"
+    },
+    "ICL_zh_female_wuxi_tob": {
+        "name_cn": "元气甜妹",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "energetic_sweet",
+        "scenario": "general"
+    },
+    "ICL_zh_female_wenyinvsheng_v1_tob": {
+        "name_cn": "知心姐姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "understanding_sister",
+        "scenario": "general"
+    },
+    "zh_male_qingyiyuxuan_mars_bigtts": {
+        "name_cn": "阳光阿辰",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "sunny",
+        "scenario": "general"
+    },
+    "zh_male_xudong_conversation_wvae_bigtts": {
+        "name_cn": "快乐小东",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "happy",
+        "scenario": "general"
+    },
+    "ICL_zh_male_lengkugege_v1_tob": {
+        "name_cn": "冷酷哥哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "cool_brother",
+        "scenario": "general"
+    },
+    "ICL_zh_female_feicui_v1_tob": {
+        "name_cn": "纯澈女生",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "pure",
+        "scenario": "general"
+    },
+    "ICL_zh_female_yuxin_v1_tob": {
+        "name_cn": "初恋女友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "first_love_girlfriend",
+        "scenario": "general"
+    },
+    "ICL_zh_female_xnx_tob": {
+        "name_cn": "贴心闺蜜",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "caring_girlfriend",
+        "scenario": "general"
+    },
+    "ICL_zh_female_yry_tob": {
+        "name_cn": "温柔白月光",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle_moonlight",
+        "scenario": "general"
+    },
+    "en_male_jason_conversation_wvae_bigtts": {
+        "name_cn": "开朗学长",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "cheerful",
+        "scenario": "general"
+    },
+    "zh_female_sophie_conversation_wvae_bigtts": {
+        "name_cn": "魅力苏菲",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming",
+        "scenario": "general"
+    },
+    "ICL_zh_female_yilin_tob": {
+        "name_cn": "贴心妹妹",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "caring_sister",
+        "scenario": "general"
+    },
+    "en_female_lauren_moon_bigtts": {
+        "name_cn": "Lauren",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_male_smith_mars_bigtts": {
+        "name_cn": "Smith",
+        "language": "英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_female_anna_mars_bigtts": {
+        "name_cn": "Anna",
+        "language": "英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_male_adam_mars_bigtts": {
+        "name_cn": "Adam",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_female_sarah_mars_bigtts": {
+        "name_cn": "Sarah",
+        "language": "澳洲英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_male_dryw_mars_bigtts": {
+        "name_cn": "Dryw",
+        "language": "澳洲英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "multi_male_jingqiangkanye_moon_bigtts": {
+        "name_cn": "かずね（和音）/Javier or ?lvaro",
+        "language": "日语、西语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "beijing_accent",
+        "scenario": "multilingual"
+    },
+    "multi_female_shuangkuaisisi_moon_bigtts": {
+        "name_cn": "はるこ（晴子）/Esmeralda",
+        "language": "日语、西语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "straightforward",
+        "scenario": "multilingual"
+    },
+    "multi_male_wanqudashu_moon_bigtts": {
+        "name_cn": "ひろし（広志）/Roberto",
+        "language": "日语、西语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "guangdong_accent",
+        "scenario": "multilingual"
+    },
+    "multi_female_gaolengyujie_moon_bigtts": {
+        "name_cn": "あけみ（朱美）",
+        "language": "日语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "cold_royal",
+        "scenario": "multilingual"
+    },
+    "en_female_amanda_mars_bigtts": {
+        "name_cn": "Amanda",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_male_jackson_mars_bigtts": {
+        "name_cn": "Jackson",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_cc_sha_v1_tob": {
+        "name_cn": "Cartoon Chef",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cartoon_chef",
+        "scenario": "multilingual"
+    },
+    "multi_zh_male_youyoujunzi_moon_bigtts": {
+        "name_cn": "ひかる（光）",
+        "language": "日语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "elegant_gentleman",
+        "scenario": "multilingual"
+    },
+    "en_female_emily_mars_bigtts": {
+        "name_cn": "Emily",
+        "language": "英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "zh_male_xudong_conversation_wvae_bigtts": {
+        "name_cn": "Daniel",
+        "language": "英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "multi_female_maomao_conversation_wvae_bigtts": {
+        "name_cn": "つき（月）",
+        "language": "日语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle",
+        "scenario": "multilingual"
+    },
+    "multi_male_M100_conversation_wvae_bigtts": {
+        "name_cn": "Lucía",
+        "language": "西语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "multi_female_sophie_conversation_wvae_bigtts": {
+        "name_cn": "さとみ（智美）",
+        "language": "日语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming",
+        "scenario": "multilingual"
+    },
+    "multi_male_xudong_conversation_wvae_bigtts": {
+        "name_cn": "まさお（正男）",
+        "language": "日语",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_female_dacey_conversation_wvae_bigtts": {
+        "name_cn": "Daisy",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "en_male_charlie_conversation_wvae_bigtts": {
+        "name_cn": "Owen",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_aussie_v1_tob": {
+        "name_cn": "Ethan",
+        "language": "澳洲英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "australian_accent",
+        "scenario": "multilingual"
+    },
+    "en_female_sarah_new_conversation_wvae_bigtts": {
+        "name_cn": "Luna",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_michael_tob": {
+        "name_cn": "Michael",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_cc_alastor_tob": {
+        "name_cn": "Alastor",
+        "language": "英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_female_cc_cm_v1_tob": {
+        "name_cn": "Charlie",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_oogie2_tob": {
+        "name_cn": "Big Boogie",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "big_boogie",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_frosty1_tob": {
+        "name_cn": "Frosty Man",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "frosty",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_grinch2_tob": {
+        "name_cn": "The Grinch",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "grinch",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_zayne_tob": {
+        "name_cn": "Zayne",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_cc_jigsaw_tob": {
+        "name_cn": "Jigsaw",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "jigsaw",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_cc_chucky_tob": {
+        "name_cn": "Chucky",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "chucky",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_cc_penny_v1_tob": {
+        "name_cn": "Clown Man",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "clown",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_kevin2_tob": {
+        "name_cn": "Kevin McCallister",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_xavier1_v1_tob": {
+        "name_cn": "Xavier",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "ICL_en_male_cc_dracula_v1_tob": {
+        "name_cn": "Noah",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "dracula",
+        "scenario": "multilingual"
+    },
+    "en_male_campaign_jamal_moon_bigtts": {
+        "name_cn": "Energetic Male II",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "energetic",
+        "scenario": "multilingual"
+    },
+    "en_male_chris_moon_bigtts": {
+        "name_cn": "Gotham Hero",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "heroic",
+        "scenario": "multilingual"
+    },
+    "en_female_daisy_moon_bigtts": {
+        "name_cn": "Delicate Girl",
+        "language": "英式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "delicate",
+        "scenario": "multilingual"
+    },
+    "en_female_product_darcie_moon_bigtts": {
+        "name_cn": "Flirty Female",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "flirty",
+        "scenario": "multilingual"
+    },
+    "en_female_emotional_moon_bigtts": {
+        "name_cn": "Peaceful Female",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "peaceful",
+        "scenario": "multilingual"
+    },
+    "en_female_nara_moon_bigtts": {
+        "name_cn": "Nara",
+        "language": "美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "standard",
+        "scenario": "multilingual"
+    },
+    "zh_male_jingqiangkanye_moon_bigtts": {
+        "name_cn": "京腔侃爷/Harmony",
+        "language": "中文-北京口音、英文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "beijing_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_female_wanwanxiaohe_moon_bigtts": {
+        "name_cn": "湾湾小何",
+        "language": "中文-台湾口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "taiwan_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_female_wanqudashu_moon_bigtts": {
+        "name_cn": "湾区大叔",
+        "language": "中文-广东口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "guangdong_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_female_daimengchuanmei_moon_bigtts": {
+        "name_cn": "呆萌川妹",
+        "language": "中文-四川口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sichuan_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_male_guozhoudege_moon_bigtts": {
+        "name_cn": "广州德哥",
+        "language": "中文-广东口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "guangdong_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_male_beijingxiaoye_moon_bigtts": {
+        "name_cn": "北京小爷",
+        "language": "中文-北京口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "beijing_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_male_haoyuxiaoge_moon_bigtts": {
+        "name_cn": "浩宇小哥",
+        "language": "中文-青岛口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "qingdao_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_male_guangxiyuanzhou_moon_bigtts": {
+        "name_cn": "广西远舟",
+        "language": "中文-广西口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "guangxi_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_female_meituojieer_moon_bigtts": {
+        "name_cn": "妹坨洁儿",
+        "language": "中文-长沙口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "changsha_accent",
+        "scenario": "fun_accents"
+    },
+    "zh_male_yuzhouzixuan_moon_bigtts": {
+        "name_cn": "豫州子轩",
+        "language": "中文-河南口音",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "henan_accent",
+        "scenario": "fun_accents"
+    },
+    "ICL_zh_male_anrenqinzhu_cd62e63dcdab_tob": {
+        "name_cn": "黯刃秦主",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "dark_blade_master",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_chunzhenshaonv_e588402fb8ad_tob": {
+        "name_cn": "纯真少女",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "innocent_girl",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_xiaonaigou_edf58cf28b8b_tob": {
+        "name_cn": "奶气小生",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "milky_boy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_jinglingxiangdao_1beb294a9e3e_tob": {
+        "name_cn": "精灵向导",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "elf_guide",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_menyoupingxiaoge_ffed9fc2fee7_tob": {
+        "name_cn": "闷油瓶小哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "stoic_guy",
+        "scenario": "role_play"
+    },
+    "zh_male_naiqimengwa_mars_bigtts": {
+        "name_cn": "奶气萌娃",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "child",
+        "tone": "milky_cute_baby",
+        "scenario": "role_play"
+    },
+    "zh_female_popo_mars_bigtts": {
+        "name_cn": "婆婆",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "old",
+        "tone": "grandma",
+        "scenario": "role_play"
+    },
+    "zh_female_gaolengyujie_moon_bigtts": {
+        "name_cn": "高冷御姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "cold_royal",
+        "scenario": "role_play"
+    },
+    "zh_male_aojiaobazong_moon_bigtts": {
+        "name_cn": "傲娇霸总",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "tsundere_ceo",
+        "scenario": "role_play"
+    },
+    "zh_female_meilinvyou_moon_bigtts": {
+        "name_cn": "魅力女友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming_girlfriend",
+        "scenario": "role_play"
+    },
+    "zh_male_shenyeboke_moon_bigtts": {
+        "name_cn": "深夜播客",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "late_night_podcaster",
+        "scenario": "role_play"
+    },
+    "zh_female_sajiaonvyou_moon_bigtts": {
+        "name_cn": "柔美女友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "coquettish_girlfriend",
+        "scenario": "role_play"
+    },
+    "zh_female_yuanqinvyou_moon_bigtts": {
+        "name_cn": "撒娇学妹",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "energetic_girlfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_bingruoshaonv_tob": {
+        "name_cn": "病弱少女",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "sickly_girl",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_huoponvhai_tob": {
+        "name_cn": "活泼女孩",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "lively_girl",
+        "scenario": "role_play"
+    },
+    "zh_male_dongfanghaoran_moon_bigtts": {
+        "name_cn": "东方浩然",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "oriental_heroic",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lvchaxiaoge_tob": {
+        "name_cn": "绿茶小哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "green_tea_boy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_jiaoruoluoli_tob": {
+        "name_cn": "娇弱萝莉",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "child",
+        "tone": "delicate_loli",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lengdanshuli_tob": {
+        "name_cn": "冷淡疏离",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_aloof",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_hanhoudunshi_tob": {
+        "name_cn": "憨厚敦实",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "honest_sturdy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_aiqilingren_tob": {
+        "name_cn": "傲气凌人",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "arrogant_overbearing",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_huopodiaoman_tob": {
+        "name_cn": "活泼刁蛮",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "lively_sassy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_guzhibingjiao_tob": {
+        "name_cn": "固执病娇",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "stubborn_yandere",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_sajiaonianren_tob": {
+        "name_cn": "撒娇粘人",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "clingy_coquettish",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_aomanjiaosheng_tob": {
+        "name_cn": "傲慢娇声",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "arrogant_sweet",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_xiaosasuixing_tob": {
+        "name_cn": "潇洒随性",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "free_spirited",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_fuheigongzi_tob": {
+        "name_cn": "腹黑公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "scheming_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_guiyishenmi_tob": {
+        "name_cn": "诡异神秘",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "eerie_mysterious",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_ruyacaijun_tob": {
+        "name_cn": "儒雅才俊",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "elegant_talent",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingjiaobailian_tob": {
+        "name_cn": "病娇白莲",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "yandere_white_lotus",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zhengzhiqingnian_tob": {
+        "name_cn": "正直青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "upright_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_jiaohannvwang_tob": {
+        "name_cn": "娇憨女王",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "coquettish_queen",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_bingjiaomengmei_tob": {
+        "name_cn": "病娇萌妹",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "yandere_cute_girl",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_qingsenaigou_tob": {
+        "name_cn": "青涩小生",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "naive_boy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_chunzhenxuedi_tob": {
+        "name_cn": "纯真学弟",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "innocent_junior",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_nuanxinxuejie_tob": {
+        "name_cn": "暖心学姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "warm_senior",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_keainvsheng_tob": {
+        "name_cn": "可爱女生",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "cute_girl",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_chengshujiejie_tob": {
+        "name_cn": "成熟姐姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "mature_sister",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_bingjiaojiejie_tob": {
+        "name_cn": "病娇姐姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "yandere_sister",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_youroubangzhu_tob": {
+        "name_cn": "优柔帮主",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "indecisive_leader",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_yourougongzi_tob": {
+        "name_cn": "优柔公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "indecisive_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_wumeiyujie_tob": {
+        "name_cn": "妩媚御姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming_royal",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_tiaopigongzhu_tob": {
+        "name_cn": "调皮公主",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "mischievous_princess",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_aojiaonvyou_tob": {
+        "name_cn": "傲娇女友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "tsundere_girlfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_tiexinnanyou_tob": {
+        "name_cn": "贴心男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "caring_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_shaonianjiangjun_tob": {
+        "name_cn": "少年将军",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "young_general",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_tiexinnvyou_tob": {
+        "name_cn": "贴心女友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "caring_girlfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingjiaogege_tob": {
+        "name_cn": "病娇哥哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "yandere_brother",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_xuebanantongzhuo_tob": {
+        "name_cn": "学霸男同桌",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "top_student_desk_mate",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_youmoshushu_tob": {
+        "name_cn": "幽默叔叔",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "humorous_uncle",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_ganli_v1_tob": {
+        "name_cn": "妩媚可人",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_xiangliangya_v1_tob": {
+        "name_cn": "邪魅御姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "evil_charming",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_xingganyujie_tob": {
+        "name_cn": "性感御姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sexy_royal",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_ms_tob": {
+        "name_cn": "嚣张小哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "arrogant_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_you_tob": {
+        "name_cn": "油腻大叔",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "greasy_uncle",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_guaogongzi_v1_tob": {
+        "name_cn": "孤傲公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "aloof_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_huzi_v1_tob": {
+        "name_cn": "胡子叔叔",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "bearded_uncle",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_luoqing_v1_tob": {
+        "name_cn": "性感魅惑",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sexy_charming",
+        "scenario": "role_play"
+    },
+    "zh_male_zhoujielun_emo_v2_mars_bigtts": {
+        "name_cn": "双节棍小哥",
+        "language": "中文-台湾口音",
+        "emotions": [],
+        "supports_mix": false,
+        "gender": "male",
+        "age": "adult",
+        "tone": "jay_chou_style",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingruogongzi_tob": {
+        "name_cn": "病弱公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "sickly_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_bingjiao3_tob": {
+        "name_cn": "邪魅女王",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "evil_queen",
+        "scenario": "role_play"
+    },
+    "ICL_zh_female_jiaxiaozi_tob": {
+        "name_cn": "假小子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "tomboy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lengjunshangsi_tob": {
+        "name_cn": "冷峻上司",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_superior",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_wenrounantongzhuo_tob": {
+        "name_cn": "温柔男同桌",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "gentle_desk_mate",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingjiaodidi_tob": {
+        "name_cn": "病娇弟弟",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "yandere_brother",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_youmodaye_tob": {
+        "name_cn": "幽默大爷",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "old",
+        "tone": "humorous_elder",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_aomanshaoye_tob": {
+        "name_cn": "傲慢少爷",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "arrogant_young_master",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_asmryexiu_tob": {
+        "name_cn": "枕边低语",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "ASMR_whisper",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_aomanqingnian_tob": {
+        "name_cn": "傲慢青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "arrogant_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_cujingnanyou_tob": {
+        "name_cn": "醋精男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "jealous_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_cujingnansheng_tob": {
+        "name_cn": "醋精男生",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "jealous_boy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_shuanglangshaonian_tob": {
+        "name_cn": "爽朗少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "bright_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_sajiaonanyou_tob": {
+        "name_cn": "撒娇男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "coquettish_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_wenrounanyou_tob": {
+        "name_cn": "温柔男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "gentle_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_wenshunshaonian_tob": {
+        "name_cn": "温顺少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "obedient_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_naigounanyou_tob": {
+        "name_cn": "粘人男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "clingy_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_sajiaonansheng_tob": {
+        "name_cn": "撒娇男生",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "coquettish_boy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_huoponanyou_tob": {
+        "name_cn": "活泼男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "lively_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_tianxinanyou_tob": {
+        "name_cn": "甜系男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "sweet_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_huoliqingnian_tob": {
+        "name_cn": "活力青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "energetic_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_kailangqingnian_tob": {
+        "name_cn": "开朗青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "cheerful_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lengmoxiongzhang_tob": {
+        "name_cn": "冷漠兄长",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_brother",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_tiancaitongzhuo_tob": {
+        "name_cn": "天才同桌",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "top_student_desk_mate",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_aojiaojingying_tob": {
+        "name_cn": "傲娇精英",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "tsundere_elite",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_pianpiangongzi_tob": {
+        "name_cn": "翩翩公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "elegant_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_mengdongqingnian_tob": {
+        "name_cn": "懵懂青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "naive_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lenglianxiongzhang_tob": {
+        "name_cn": "冷脸兄长",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_faced_brother",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingjiaoshaonian_tob": {
+        "name_cn": "病娇少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "yandere_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingjiaonanyou_tob": {
+        "name_cn": "病娇男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "yandere_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bingruoshaonian_tob": {
+        "name_cn": "病弱少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "sickly_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_yiqishaonian_tob": {
+        "name_cn": "意气少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "spirited_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_ganjingshaonian_tob": {
+        "name_cn": "干净少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "clean_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lengmonanyou_tob": {
+        "name_cn": "冷漠男友",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "cold_boyfriend",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_jingyingqingnian_tob": {
+        "name_cn": "精英青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "elite_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_fengfashaonian_tob": {
+        "name_cn": "风发少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "spirited_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_rexueshaonian_tob": {
+        "name_cn": "热血少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "passionate_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_qingshuangshaonian_tob": {
+        "name_cn": "清爽少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "fresh_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zhongerqingnian_tob": {
+        "name_cn": "中二青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "chuunibyou_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lingyunqingnian_tob": {
+        "name_cn": "凌云青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "ambitious_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zifuqingnian_tob": {
+        "name_cn": "自负青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "arrogant_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_bujiqingnian_tob": {
+        "name_cn": "不羁青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "unruly_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_ruyajunzi_tob": {
+        "name_cn": "儒雅君子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "elegant_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_diyinchenyu_tob": {
+        "name_cn": "低音沉郁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "deep_melancholy",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lenglianxueba_tob": {
+        "name_cn": "冷脸学霸",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "cold_top_student",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_ruyazongcai_tob": {
+        "name_cn": "儒雅总裁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "elegant_ceo",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_shenchenzongcai_tob": {
+        "name_cn": "深沉总裁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "deep_ceo",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_xiaohouye_tob": {
+        "name_cn": "小侯爷",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "young_marquis",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_gugaogongzi_tob": {
+        "name_cn": "孤高公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "aloof_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zhangjianjunzi_tob": {
+        "name_cn": "仗剑君子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "sword_wielding_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_wenrunxuezhe_tob": {
+        "name_cn": "温润学者",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "gentle_scholar",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_qinqieqingnian_tob": {
+        "name_cn": "亲切青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "kind_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_wenrouxuezhang_tob": {
+        "name_cn": "温柔学长",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "gentle_senior",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_cixingnansang_tob": {
+        "name_cn": "磁性男嗓",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "magnetic_male_voice",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_gaolengzongcai_tob": {
+        "name_cn": "高冷总裁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_ceo",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lengjungaozhi_tob": {
+        "name_cn": "冷峻高智",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_high_intellect",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_chanruoshaoye_tob": {
+        "name_cn": "孱弱少爷",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "frail_young_master",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zixinqingnian_tob": {
+        "name_cn": "自信青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "confident_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_qingseqingnian_tob": {
+        "name_cn": "青涩青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "naive_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_xuebatongzhuo_tob": {
+        "name_cn": "学霸同桌",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "top_student_desk_mate",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_lengaozongcai_tob": {
+        "name_cn": "冷傲总裁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "cold_arrogant_ceo",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_badaoshaoye_tob": {
+        "name_cn": "霸道少爷",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "domineering_young_master",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_yuanqishaonian_tob": {
+        "name_cn": "元气少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "energetic_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_satuoqingnian_tob": {
+        "name_cn": "洒脱青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "unrestrained_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zhishuaiqingnian_tob": {
+        "name_cn": "直率青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "frank_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_siwenqingnian_tob": {
+        "name_cn": "斯文青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "gentle_youth",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_chengshuzongcai_tob": {
+        "name_cn": "成熟总裁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "mature_ceo",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_junyigongzi_tob": {
+        "name_cn": "俊逸公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "handsome_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_aojiaogongzi_tob": {
+        "name_cn": "傲娇公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "tsundere_gentleman",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_zhangjianxiake_tob": {
+        "name_cn": "仗剑侠客",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "sword_wielding_hero",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_jijiaozhineng_tob": {
+        "name_cn": "机甲智能",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "mecha_ai",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_shenmifashi_tob": {
+        "name_cn": "神秘法师",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "mysterious_mage",
+        "scenario": "role_play"
+    },
+    "ICL_zh_male_badaozongcai_v1_tob": {
+        "name_cn": "霸道总裁",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "domineering_ceo",
+        "scenario": "role_play"
+    },
+    "zh_female_maomao_conversation_wvae_bigtts": {
+        "name_cn": "文静毛毛",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle",
+        "scenario": "video_dubbing"
+    },
+    "ICL_zh_female_qiuling_v1_tob": {
+        "name_cn": "倾心少女",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "charming_girl",
+        "scenario": "video_dubbing"
+    },
+    "ICL_zh_male_buyan_v1_tob": {
+        "name_cn": "醇厚低音",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "mellow_bass",
+        "scenario": "video_dubbing"
+    },
+    "ICL_zh_male_BV144_paoxiaoge_v1_tob": {
+        "name_cn": "咆哮小哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "roaring_boy",
+        "scenario": "video_dubbing"
+    },
+    "ICL_zh_female_heainainai_tob": {
+        "name_cn": "和蔼奶奶",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "old",
+        "tone": "kind_grandma",
+        "scenario": "video_dubbing"
+    },
+    "ICL_zh_female_linjuayi_tob": {
+        "name_cn": "邻居阿姨",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "neighborly_aunt",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_wenrouxiaoya_moon_bigtts": {
+        "name_cn": "温柔小雅",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_tiancaitongsheng_mars_bigtts": {
+        "name_cn": "天才童声",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "child",
+        "tone": "genius_child",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_sunwukong_mars_bigtts": {
+        "name_cn": "猴哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "monkey_king",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_xionger_mars_bigtts": {
+        "name_cn": "熊二",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "bear_two",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_peiqi_mars_bigtts": {
+        "name_cn": "佩奇猪",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "child",
+        "tone": "peppa_pig",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_wuzetian_mars_bigtts": {
+        "name_cn": "武则天",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "empress_wu",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_gujie_mars_bigtts": {
+        "name_cn": "顾姐",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "sister_gu",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_yingtaowanzi_mars_bigtts": {
+        "name_cn": "樱桃丸子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "child",
+        "tone": "maruko",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_chunhui_mars_bigtts": {
+        "name_cn": "广告解说",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "advertising_narrator",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_shaoergushi_mars_bigtts": {
+        "name_cn": "少儿故事",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "children_storyteller",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_silang_mars_bigtts": {
+        "name_cn": "四郎",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "silang",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_jieshuonansheng_mars_bigtts": {
+        "name_cn": "磁性解说男声/Morgan",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "magnetic_narrator",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_jitangmeimei_mars_bigtts": {
+        "name_cn": "鸡汤妹妹/Hope",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "inspirational_sister",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_tiexinnvsheng_mars_bigtts": {
+        "name_cn": "贴心女声/Candy",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "caring_female",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_qiaopinvsheng_mars_bigtts": {
+        "name_cn": "俏皮女声",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "playful_female",
+        "scenario": "video_dubbing"
+    },
+    "zh_female_mengyatou_mars_bigtts": {
+        "name_cn": "萌丫头/Cutey",
+        "language": "中文、美式英语",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "child",
+        "tone": "cute_girl",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_lanxiaoyang_mars_bigtts": {
+        "name_cn": "懒音绵宝",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "lazy_mianbao",
+        "scenario": "video_dubbing"
+    },
+    "zh_male_dongmanhaimian_mars_bigtts": {
+        "name_cn": "亮嗓萌仔",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "bright_anime",
+        "scenario": "video_dubbing"
+    },
+    "ICL_zh_male_neiliancaijun_e991be511569_tob": {
+        "name_cn": "内敛才俊",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "introverted_talent",
+        "scenario": "audio_reading"
+    },
+    "ICL_zh_male_yangyang_v1_tob": {
+        "name_cn": "温暖少年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "warm_youth",
+        "scenario": "audio_reading"
+    },
+    "ICL_zh_male_flc_v1_tob": {
+        "name_cn": "儒雅公子",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "elegant_gentleman",
+        "scenario": "audio_reading"
+    },
+    "zh_male_changtianyi_mars_bigtts": {
+        "name_cn": "悬疑解说",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "suspense_narrator",
+        "scenario": "audio_reading"
+    },
+    "zh_male_ruyaqingnian_mars_bigtts": {
+        "name_cn": "儒雅青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "elegant_youth",
+        "scenario": "audio_reading"
+    },
+    "zh_male_baqiqingshu_mars_bigtts": {
+        "name_cn": "霸气青叔",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "domineering_uncle",
+        "scenario": "audio_reading"
+    },
+    "zh_male_qingcang_mars_bigtts": {
+        "name_cn": "擎苍",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "adult",
+        "tone": "majestic",
+        "scenario": "audio_reading"
+    },
+    "zh_male_yangguangqingnian_mars_bigtts": {
+        "name_cn": "活力小哥",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "energetic_youth",
+        "scenario": "audio_reading"
+    },
+    "zh_female_gufengshaoyu_mars_bigtts": {
+        "name_cn": "古风少御",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "young",
+        "tone": "ancient_style_girl",
+        "scenario": "audio_reading"
+    },
+    "zh_female_wenroushunv_mars_bigtts": {
+        "name_cn": "温柔淑女",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle_lady",
+        "scenario": "audio_reading"
+    },
+    "zh_male_fanjuanqingnian_mars_bigtts": {
+        "name_cn": "反卷青年",
+        "language": "中文",
+        "emotions": [],
+        "supports_mix": true,
+        "gender": "male",
+        "age": "young",
+        "tone": "anti_involution_youth",
+        "scenario": "audio_reading"
+    }
+}
